@@ -1,2 +1,3 @@
-FROM alpine
-RUN echo 'Hello From Docker'
+FROM httpd:latest
+
+
